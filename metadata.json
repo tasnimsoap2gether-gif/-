@@ -1,0 +1,6 @@
+{
+  "name": "عالم الكتّاب الصغار | Little Writers & Artists",
+  "description": "منصة تفاعلية ممتعة للأطفال لتعلم مهارات الكتابة، وتصميم القصص المصورة، ورسم الحروف، وألعاب سرعة الكيبورد والكلمات السحرية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
